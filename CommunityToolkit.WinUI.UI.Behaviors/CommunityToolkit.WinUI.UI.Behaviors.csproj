@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <UseWindowsDesktopSdk>true</UseWindowsDesktopSdk>
-    <TargetFrameworks>net5.0-windows10.0.18362.0</TargetFrameworks>
+    <TargetFrameworks>net5.0-windows10.0.17763.0</TargetFrameworks>
   </PropertyGroup>
 
   <PropertyGroup>
